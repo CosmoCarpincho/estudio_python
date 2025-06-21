@@ -1,0 +1,3 @@
+En python se puede crear scripts para trabajar con datos.
+En python se puede crear juegos.
+En python se puede automatizar procesos.
